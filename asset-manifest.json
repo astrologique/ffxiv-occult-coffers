@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ffxiv-occult-coffers/static/css/main.b3162dbd.css",
-    "main.js": "/ffxiv-occult-coffers/static/js/main.1c9bbc6c.js",
+    "main.css": "/ffxiv-occult-coffers/static/css/main.ca61097f.css",
+    "main.js": "/ffxiv-occult-coffers/static/js/main.49502828.js",
     "static/js/453.7e9617b4.chunk.js": "/ffxiv-occult-coffers/static/js/453.7e9617b4.chunk.js",
     "index.html": "/ffxiv-occult-coffers/index.html",
-    "main.b3162dbd.css.map": "/ffxiv-occult-coffers/static/css/main.b3162dbd.css.map",
-    "main.1c9bbc6c.js.map": "/ffxiv-occult-coffers/static/js/main.1c9bbc6c.js.map",
+    "main.ca61097f.css.map": "/ffxiv-occult-coffers/static/css/main.ca61097f.css.map",
+    "main.49502828.js.map": "/ffxiv-occult-coffers/static/js/main.49502828.js.map",
     "453.7e9617b4.chunk.js.map": "/ffxiv-occult-coffers/static/js/453.7e9617b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3162dbd.css",
-    "static/js/main.1c9bbc6c.js"
+    "static/css/main.ca61097f.css",
+    "static/js/main.49502828.js"
   ]
 }
