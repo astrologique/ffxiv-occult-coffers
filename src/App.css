@@ -1,0 +1,14 @@
+.leaflet-container {
+  width: 80%;
+  height: 100vh;
+  left: 200px;
+}
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 200px;
+  height: 100%;
+  padding: 20px;
+}
