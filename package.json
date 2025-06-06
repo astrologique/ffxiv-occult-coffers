@@ -1,7 +1,7 @@
 {
-  "name": "occult-treasure-tracker",
+  "name": "ffxiv-occult-coffers",
   "version": "0.1.0",
-  "homepage": "https://astrologique.github.io/occult-treasure-tracker",
+  "homepage": "https://astrologique.github.io/ffxiv-occult-coffers",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
